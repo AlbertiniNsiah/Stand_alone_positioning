@@ -1,5 +1,5 @@
 # Stand_alone_positioning
-Running the code.m estimates the precise location of a user receiver from raw GPS data.
+Running the code.m file estimates the precise location of a user receiver from raw GPS data.
 
 The codes read a single-epoch data set to compute user location with least squares iteration.
 
